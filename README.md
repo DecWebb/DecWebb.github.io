@@ -1,21 +1,4 @@
-# jekyll-mdl
-> A Jekyll theme based in Google Material Design Lite library.
-
-## Demo
-
-You can see the online demo here [www.gdgmanagua.org/jekyll-mdl](http://www.gdgmanagua.org/jekyll-mdl)
-
-![Demo](https://raw.githubusercontent.com/gdg-managua/jekyll-mdl/master/jekyll-mdl-screen.png)
-
-## Sites using jekyll-mdl
-
-If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send us a pull request, we will be happy to know where the theme has been used.
-
-- [prosa100.github.io](http://prosa100.github.io/)
-- [fandekasp.github.io](http://fandekasp.github.io/)
-- [webiphany.com](http://webiphany.com)
-- [siempredelao.github.io](http://siempredelao.github.io/)
-- [sparker0i.github.io](http://sparker0i.github.io/)
+Declan Webb's Personal Website
 
 ## Custom Themes
 
@@ -48,25 +31,6 @@ You can setup 4 types of layout
 - Drawer Nav + Highlight Post + Card Grid
 
 For use this in the [_config.yml](https://github.com/gdg-managua/jekyll-mdl/blob/master/_config.yml) select the type of layout, rebuild the website and voilà :smile:
-
-## Contributing
-If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps
-
-    # Fork this repository
-    # Clone your fork
-    jekyll serve --watch
-
-    git checkout -b feature_branch
-    # Implement your feature and tests
-    git add . && git commit
-    git push -u origin feature_branch
-    # Send a pull request for your feature branch
-
-## Team
-[![Oscar Cortez](https://avatars.githubusercontent.com/u/2553459?v=3&s=100)](http://github.com/oscarmcm) | [![Byron Corrales](https://avatars.githubusercontent.com/u/99616?v=3&s=100)](https://github.com/byroncorrales)
----|---
-[Oscar Cortez](http://github.com/oscarmcm) | [Byron Corrales](https://github.com/byroncorrales)
-Project Lead | Contributor
 
 ## License
 Licensed under the Apache 2.0 license.
