@@ -7,7 +7,7 @@ categories: Portfolio
 highlight:
 image: https://lh3.googleusercontent.com/zvEEQllR8dI5p2SuRzNMKSLBG57qetbpBzA75OdFMaWzCC-K4Nzm0qDVTpGCMrdE53J-GkaqiStJhXT0XIDus_MLrYapKGsKx-4iZjwAtIQGcbBAqR5xPVonLpFbtQeUtetT_XJ-jYrTAUUNNDIWTlGCB5ZJUkqJeT92drIqjhOFwCtM24MQFk0MC1zwVtehWkdt0Uv6U8FQTQ0-L8nlqJIQGHkrBQO6aNqxShVe20zTgfqsmKOfu6UMvpqqwI1UK5AoED7Q-CU0LxtpClrrldTRx0cUW4DCqG9H9YGz0cr1XFwkk9l_FToM6sBJJ0sJdFa01_wwmAortLgz5BPGFVSqJfOD6d8mB2_ATnJobbwgBXXD4aymL2Cy9Wjtwemyxc9bmad1_36_HF1SE0ffXRNcyK5Z0FOCvdbVxo1Dcqjbi9xSTgUtTyPyjWf0sdon2BCOsMViA9HtvgQ0DA_brlj27EVBuoPPZhv_2ttfnmjULmINHzRS7g0onN2AuUm-IuIxrRftgfWJ0mwGhs0GVflo6BYkb7_M_Xg4plw2MJ5Y6BXla00wHGOUL4FU-xnpK2LOdFFC1aUCLQI3EbgU1EivxXrONwJv93rGpVEFJsY7wq6rwhDEFw=s1000
 ---
-I modelled a pair of Sennheiser HD201 headophones in Siemens NX 8.5 and then produced some renders.
+I modelled a pair of Sennheiser HD201 headophones in Siemens NX 8.5 and then produced some renders.  
 
 ![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
 
