@@ -7,3 +7,5 @@ permalink: /about/
 Hi, My Name is Declan Webb.
 
 I am a Product Design Engineering Student in my 2nd year at Loughborough University.
+
+![Welcome Card](jekyll-mdl/img/welcome_card.jpg){:class="img-responsive"}
