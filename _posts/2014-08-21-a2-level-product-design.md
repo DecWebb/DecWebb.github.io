@@ -16,3 +16,5 @@ Below is my A2 Product Design Coursework.
 
 
 ![Test Image](https://lh3.googleusercontent.com/j7Jzuoi8WwdW4DKfmDRTLKtIliKkN4PHmHOSviNWQXyLNYJb321BxAqfoythOe_-b_eBnJdxE-JDrtHUhRtzhsoxZBxClIm2rc2XugO9NyMViq4INBizVBoSD0mnEZMuh1snlG0)
+
+![Test Image 2](http://drive.google.com/uc?export=view&id=1DeDRMZcSIQb6S6XUpNI6COYlNNocMcMV4A)
