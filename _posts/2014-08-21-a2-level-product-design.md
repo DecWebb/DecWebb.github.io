@@ -5,7 +5,7 @@ date: 2014-08-21 20:29
 author: Declan Webb
 categories:
 highlight:
-image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
+image: {{ site.title }}/jekyll-mdl/img/welcome_card.jpg
 ---
 For A2 Product Design I created wooden desktop computer case.
 
