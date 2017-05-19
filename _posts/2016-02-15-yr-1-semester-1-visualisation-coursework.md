@@ -5,7 +5,7 @@ date: 2016-02-15 21:14
 author: Declan Webb
 categories: []
 image: https://lh3.googleusercontent.com/IipqPcGTuR7I5lQBWbsVOOgm3x7jpkkU7xGcDbTL84CruXk3r8-nsdC4BcLnY8DvXAGn7CEIn0n2H91fXkrqYCYBWhl5bBMZToRCH5G_a-9Cx2EgAFU_kINpXczKCt8fdXyuAAomR_Fu9oipp4O2C8YSHoETEH5axgKdgbS9mvsl1WBCCz-FiEUYqe9XwSNf_kZrDDlBOd4FA6Qsrct1MkcIES3tt4ehUUCtw95ItkoJEzcSjVAIBkZJKViJ0S1YrlYKmVD2y1DAGelpUN31gQMbU0ptcJI6YxWuuaxqfjejmWoKaQC7FknwoNJITX_jcv1TCkYCrSl-TRMTNqrJ-8LFQTWOHHcBPV6WzyDZPdLVRrPgSe8bKgj5yXgnUxN3BYm5f_HgkgF1eUaRvIjOXcLrhxfKcowaAZBJMn16aHjgksFL5sj0JFWi_yw2fYJ38fzYtngssplTT-ZLlJxkrWjd9nFGzd12_zvoPZj4e3Wk2i0xApguNXnxfGkilMloui1-1pB9RyxkCTmpM0H_Cx9x-_kRgLKApYqDhzgHCLfmYNNTK2O2VtCLfyEH5U5TNQ8ThGgIT8WGcwQQIaQPUZx_NfPr8T-ZAJ0j2jKtcxflo54aQWVVxw=s1000
-excerpt: Tasked to use hand rendering techniques to visualise an existing product, I choose a Topeak bike light.
+excerpt: Tasked to use hand rendering techniques to visualise an existing product.
 ---
 
 Tasked to use hand rendering techniques to visualise an existing product, I choose a Topeak bike light.
