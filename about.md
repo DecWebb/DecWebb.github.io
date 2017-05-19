@@ -8,13 +8,13 @@ Hi, My Name is Declan Webb.
 
 I am a Product Design Engineering Student in my 2nd year at Loughborough University.
 
-Twitter: https://twitter.com/deccywebb - automatic!
+Twitter: https://twitter.com/deccywebb
 
-Instagram: https://www.instagram.com/decwebb/ - automatic!
+Instagram: https://www.instagram.com/decwebb/
 
-Origami Blog: https://deccywebb.tumblr.com - automatic!
+Origami Blog: https://deccywebb.tumblr.com
 
-LinkedIn: https://www.linkedin.com/in/declanwebb/ - automatic!
+LinkedIn: https://www.linkedin.com/in/declanwebb/
 
 Email: D.Webb2-15@student.lboro.ac.uk
 
