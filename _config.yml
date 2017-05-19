@@ -2,7 +2,7 @@
 title: Declan Webb
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Declan Webbs' Personal Website.
+  Declan Webb's Personal Website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://decwebb.com" # the base hostname & protocol for your site
 twitter_username: DeccyWebb
