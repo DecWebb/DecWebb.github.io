@@ -9,7 +9,6 @@ image: https://lh3.googleusercontent.com/zvEEQllR8dI5p2SuRzNMKSLBG57qetbpBzA75Od
 excerpt: I modelled a pair of Sennheiser HD201 headophones in Siemens NX 8.5 and then produced some renders.  
 ---
 I modelled a pair of Sennheiser HD201 headophones in Siemens NX 8.5 and then produced some renders.  
----
 
 ![Title Page Tif.jpg](https://lh3.googleusercontent.com/GRYuy1-PpDtJqwww2ALQ4DG7_hNoYd465TFLK4oczz6fkek-ELMbPnbkt6HXYP4PqI00UFPIog2gih4XhTZaVVEPiVUHxTKDVXGWxR0vo4afJUPyaX9UMNa8Qompl7BU5Vnj_m1aJYWkC1-MXkEJ_5N8gM5RZ5eNCULYGIW9CKpBLvTyJFzEQXlJ8KHTZyc4FGJGhcgAGMLvkPcXyEJScfNsXsfipFwhdQkNCfW-i8Ird8kxunsK-R44J55fuc8DuRHDHNqNebdht-M8cLlC_U-ohvR2hK15xtOvSz8wp2BgQJsaUfH9t1OZgfQ7xlJwuR80jQ_k-htplNbDHw5e4WACyIfITZzlhonMANAb4Tgqxez9PtVBtbuoBvGLKoEuu5B1iQmVVaGb9EZOfohtRRJXrsZJTpZ_bTbidy8TUepCKj1s-Iezo72mzhEMRJM0HB0L7IVbipR68KsDFnN_YvF2-LPOXAuvB5od0gjKs1Ozp0kVjcJsOiMDlEhEwbPSSd-iDh87IuBazwq0Z99PBqVs7h_scnwpZxoW4uIOMhTNlUnRJMNyR3u4bN6uyoyGeVNsjQHZeJQpyg18MqsVXl9lUrIVO3mQ93vYZKn2pqFU0N2dl2QdfA=s1000){:class="img-responsive"}
 
