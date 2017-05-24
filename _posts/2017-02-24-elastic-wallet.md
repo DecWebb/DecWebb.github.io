@@ -8,7 +8,7 @@ highlight:
 image: https://drive.google.com/uc?id=0B8DmHQsoX0WjU2NGd256YUlxMVk
 excerpt: Custom made elastic wallet.
 ---
-An elastic wallet I made using an elastic strap from an old backpack.
+An elastic wallet made using an elastic strap from an old backpack.
 
 ![IMG_20170502_120847318.jpg](https://drive.google.com/uc?id=0B8DmHQsoX0WjTVhkY1RmLWF1YlU)
 
