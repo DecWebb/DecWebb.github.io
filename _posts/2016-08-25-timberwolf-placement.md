@@ -5,7 +5,7 @@ date: 2016-08-25 16:40
 author: Declan Webb
 categories: Portfolio
 highlight:
-image: https://drive.google.com/uc?id=0B8DmHQsoX0WjU2NGd256YUlxMVk
+image: https://drive.google.com/uc?id=0B8DmHQsoX0WjdDE3TDYtYXRlbmc
 excerpt: Timberwolf summer placement as Design Engineering Intern.
 ---
 Worked in their engineering department where I recreated their TW190DHB wood chipper in SolidWorks from engineering drawings and Cobalt CAD programme models. 
