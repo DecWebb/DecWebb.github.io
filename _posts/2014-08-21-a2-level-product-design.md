@@ -14,7 +14,7 @@ Below is my A2 Product Design Coursework.
 
 <a href="https://drive.google.com/file/d/0B8DmHQsoX0WjSExfcF9YVEVCeTg/view?usp=sharing" target="_blank">To view and download a copy of my coursework click here.</a>
 
-<iframe src="https://drive.google.com/file/d/0B8DmHQsoX0WjSExfcF9YVEVCeTg/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B8DmHQsoX0WjSExfcF9YVEVCeTg/preview" width="640" height="640"></iframe>
 
 <iframe src="https://docs.google.com/viewer?srcid=0B8DmHQsoX0WjSExfcF9YVEVCeTg&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
 
