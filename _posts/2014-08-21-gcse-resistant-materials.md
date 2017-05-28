@@ -10,3 +10,5 @@ excerpt: For GCSE Resistant Materials coursework I created a folding bike stand.
 Below is my portfolio for my GCSE Resistant Materials where I created a folding bike stand.
 
 <a href="https://drive.google.com/file/d/0B8DmHQsoX0WjbmNhV3p0UUpJYWs/view?usp=sharing" target="_blank">To view and download a copy of my coursework click here.</a>
+
+<iframe src="https://drive.google.com/file/d/0B8DmHQsoX0WjbmNhV3p0UUpJYWs/preview" width="640" height="550"></iframe>
