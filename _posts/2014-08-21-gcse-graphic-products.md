@@ -10,3 +10,5 @@ excerpt: For GCSE Graphics Products coursework I created a flat pack paper model
 Below is my GCSE Graphics Products coursework where I created a flat pack paper model of a house.
 
 <a href="https://drive.google.com/file/d/0B8DmHQsoX0WjbDFoU1hSbmstWms/view?usp=sharing" target="_blank">To view and download a copy of my coursework click here.</a>
+
+<iframe src="https://drive.google.com/file/d/0B8DmHQsoX0WjbDFoU1hSbmstWms/preview" width="640" height="550"></iframe>
