@@ -14,7 +14,7 @@ Twitter:  [https://twitter.com/deccywebb](https://twitter.com/deccywebb)
 
 Instagram: [https://www.instagram.com/decwebb/](https://www.instagram.com/decwebb/)
 
-Origami Blog: [https://deccywebb.tumblr.com](https://deccywebb.tumblr.com)
+Origami Blog: [https://origami.decwebb.com](https://origami.decwebb.com)
 
 LinkedIn: [https://www.linkedin.com/in/declanwebb/](https://www.linkedin.com/in/declanwebb/)
 
